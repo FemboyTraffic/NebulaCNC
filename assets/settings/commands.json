@@ -1,0 +1,54 @@
+{
+    "Announce": {
+      "enabled": true
+    },
+    "Ban": {
+      "enabled": true
+    },
+    "CheckUser": {
+      "enabled": true
+    },
+    "Clear": {
+      "enabled": true
+    },
+    "EditAll": {
+      "enabled": true
+    },
+    "EditUser": {
+      "enabled": true
+    },
+    "Help": {
+      "enabled": true
+    },
+    "Logs": {
+      "enabled": true
+    },
+    "Lookup": {
+      "enabled": true
+    },
+    "Methods": {
+      "enabled": true
+    },
+    "Ongoing": {
+      "enabled": true
+    },
+    "Online": {
+      "enabled": true
+    },
+    "Password": {
+      "enabled": true
+    },
+    "Plan": {
+      "enabled": true
+    },
+    "Reload": {
+      "enabled": true
+    },
+    "Toggle": {
+      "enabled": true
+    },
+    "Users": {
+      "enabled": true
+    }
+  }
+  

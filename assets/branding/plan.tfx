@@ -1,0 +1,22 @@
+
+[97mPlan details:
+    username: [ [38;2;0;143;255m<<$username>> [97m]
+    role: [ [38;2;0;143;255m<<$membership>> [97m]
+    expiry date: [ [38;2;0;143;255m<<$expiry>> [97m]
+    vip access: [ [38;2;0;143;255m<<$vip>> [97m]
+    private access: [ [38;2;0;143;255m<<$private>> [97m]
+    api access: [ [38;2;0;143;255m<<$apiaccess>> [97m]
+    cooldown: [ [38;2;0;143;255m<<$cooldown>> [97m]
+    concurrents: [ [38;2;0;143;255m<<$concurrents>> [97m]
+    max time: [ [38;2;0;143;255m<<$maxtime>> [97m]
+    user total attack count: [ [38;2;0;143;255m<<$totaluserattacks>> [97m]
+    user attacks sent today: [ [38;2;0;143;255m<<$userattackstoday>> [97m]
+    user's max daily attacks: [ [38;2;0;143;255m<<$maxuserattacks>> [97m]
+    powersaving bypass: [ [38;2;0;143;255m<<$powersaving>> [97m]
+    blacklist bypass: [ [38;2;0;143;255m<<$bypassblacklist>> [97m]
+    last attack date: [ [38;2;0;143;255m<<$last_attack.date>> [97m]
+    last attack target: [ [38;2;0;143;255m<<$last_attack.target>> [97m]
+    last attack port: [ [38;2;0;143;255m<<$last_attack.port>> [97m]
+    last attack duration: [ [38;2;0;143;255m<<$last_attack.duration>> [97m]
+    last attack method: [ [38;2;0;143;255m<<$last_attack.method>> [97m]
+

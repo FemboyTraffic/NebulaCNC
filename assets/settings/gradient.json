@@ -1,0 +1,12 @@
+{
+    "rainbow": {
+      "from_color": "#FF0000",
+      "to_color": "#0000FF",
+      "background": false
+    },
+    "sunset": {
+      "from_color": "#FF4500",
+      "to_color": "#FFD700",
+      "background": true
+    }
+}
