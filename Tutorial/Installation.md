@@ -19,7 +19,7 @@ via.
 
 ### MySQL install for **Ubuntu 20.04 -> latest**
 
- - As of Nebula CNC v1.0.2 the cnc will automatically create your database tables so
+ - As of Nebula CNC v1.0.5 the cnc will automatically create your database tables so
  - you only need to install, Config & Create the database as Nebula CNC will do the rest.
 
     1. Install         `sudo apt install mysql-server`
